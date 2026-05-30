@@ -1,4 +1,4 @@
-<img width="846" height="457" alt="Screenshot 2026-05-30 at 2 21 28 PM" src="https://github.com/user-attachments/assets/87553452-f527-49f5-92d8-25e52b8fabd4" /><img width="846" height="457" alt="Screenshot 2026-05-30 at 2 21 28 PM" src="https://github.com/user-attachments/assets/5f5610ce-8e80-4e64-a1d7-101e0d3bb843" /># 📄 DocChat – AI-Powered Document Chatbot
+# 📄 DocChat – AI-Powered Document Chatbot
 
 An intelligent Retrieval-Augmented Generation (RAG) application that enables users to upload documents and interact with them through natural language conversations. Built with Next.js, FastAPI, LangChain, Hugging Face, and ChromaDB, DocChat delivers accurate, context-aware responses by combining semantic search with modern AI technologies.
 
